@@ -43,8 +43,8 @@ export default {
 .counter-app-container {
   width: 100%;
   height: 100vh;
-  background-color: #0093e9;
-  background-image: linear-gradient(160deg, #0093e9 0%, #80d0c7 100%);
+  background-color: #45036a;
+  background-image: linear-gradient(160deg, #45036a 0%, #cebce4 100%);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -76,7 +76,7 @@ button {
   color: #fff;
   border: 1px solid #fff;
   cursor: pointer;
-  background: #44b3d7;
+  background: #44d7d5;
   position: relative;
   border-radius: 8px;
   overflow: hidden;
